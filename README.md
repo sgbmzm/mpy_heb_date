@@ -8,7 +8,7 @@ Download the following two files and place them in the main folder of the contro
 
 **mpy_heb_date.py**
 
-**gematria_pyluach.py** (from: https://github.com/simlist/pyluach/blob/master/src/pyluach/gematria.py)
+**gematria_pyluach.py**              (The source is: https://github.com/simlist/pyluach/blob/master/src/pyluach/gematria.py)
 
 On networked platforms it may alternatively be installed with
 [mip](https://docs.micropython.org/en/latest/reference/packages.html).
