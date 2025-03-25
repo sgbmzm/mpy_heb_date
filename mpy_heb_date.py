@@ -1,4 +1,4 @@
-from halacha_clock import gematria_pyluach
+import gematria_pyluach
 import utime
 
 # מוציא את מספר היום בשבוע הנורמלי לפי סדר מתוך שעון המכשיר שמוגדר RTC
