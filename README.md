@@ -24,6 +24,10 @@ print("today_heb_date_string", A)
 ```
 There are many other useful functions. See the file: **mpy_heb_date.py**
 
+```py
+heb_date_string, tuple_heb_date, holiday_name, lite_holiday_name, is_rosh_chodesh = get_heb_date_and_holiday_from_greg_date(greg_year, greg_month, greg_day)
+```
+
 **Please note: 
 
 The Hebrew date is calculated from the controller's Gregorian date. If the Gregorian date is not set - the Hebrew date will not be set.
