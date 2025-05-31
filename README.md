@@ -1,5 +1,5 @@
 # mpy_heb_date
-Hebrew date in Micropython
+Hebrew date for Micropython and C-python
 (The calculations are based on Gauss's formula for Passover)
 
 ## 1 Installation
