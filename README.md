@@ -1,6 +1,7 @@
 # mpy_heb_date
 Hebrew date Compatible with both MicroPython and regular (C) Python
 (The calculations are based on Gauss's formula for Passover)
+only from 2001 AD onwards
 
 ## 1 Installation
 
