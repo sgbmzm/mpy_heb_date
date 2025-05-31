@@ -1,7 +1,6 @@
 {
   "urls": [
     ["mpy_heb_date.py", "github:sgbmzm/mpy_heb_date/mpy_heb_date.py"],
-    ["gematria_pyluach.py", "github:sgbmzm/mpy_heb_date/gematria_pyluach.py"],
   ],
   "version": "0.1"
 }
