@@ -1,14 +1,12 @@
 # mpy_heb_date
-Hebrew date for Micropython and C-python
+Hebrew date Compatible with both MicroPython and regular (C) Python
 (The calculations are based on Gauss's formula for Passover)
 
 ## 1 Installation
 
-Download the following two files and place them in the main folder of the controller:
+Download the following file:
 
 **mpy_heb_date.py**
-
-**gematria_pyluach.py**              (The source is: https://github.com/simlist/pyluach/blob/master/src/pyluach/gematria.py)
 
 On networked platforms it may alternatively be installed with
 [mip](https://docs.micropython.org/en/latest/reference/packages.html).
